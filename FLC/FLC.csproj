@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <!-- BepInEx Properties -->
     <PropertyGroup>
-        <AssemblyName>FL.FLC</AssemblyName>
+        <AssemblyName>FLC</AssemblyName>
         <Product>FLC</Product>
         <!-- Change to whatever version you're currently on. -->
         <Version>0.1</Version>
@@ -11,6 +11,7 @@
     <!-- Project Properties -->
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
+		<Version>0.0.1</Version>
         <RootNamespace>FLC</RootNamespace>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
@@ -42,15 +43,15 @@
 
     <!-- Primary Package References -->
     <ItemGroup>
-        <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all"/>
-        <PackageReference Include="BepInEx.Core" Version="5.*" PrivateAssets="all"/>
-        <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" PrivateAssets="all"/>
-        <PackageReference Include="LethalCompany.GameLibs.Steam" Version="*-*" PrivateAssets="all"/>
-        <PackageReference Include="UnityEngine.Modules" Version="2022.3.9" IncludeAssets="compile" PrivateAssets="all"/>
-        <PackageReference Include="TeamBMX.LobbyCompatibility" Version="1.*" PrivateAssets="all"/>
+        <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
+        <PackageReference Include="BepInEx.Core" Version="5.*" PrivateAssets="all" />
+        <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" PrivateAssets="all" />
+        <PackageReference Include="LethalCompany.GameLibs.Steam" Version="*-*" PrivateAssets="all" />
+        <PackageReference Include="UnityEngine.Modules" Version="2022.3.9" IncludeAssets="compile" PrivateAssets="all" />
+        <PackageReference Include="TeamBMX.LobbyCompatibility" Version="1.*" PrivateAssets="all" />
     </ItemGroup>
 
     <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
-        <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all"/>
+        <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
     </ItemGroup>
 </Project>

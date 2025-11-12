@@ -1,7 +1,7 @@
 <Project>
     <!-- Custom Variables -->
     <PropertyGroup>
-        <PluginDirectory>C:\Users\User\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\FLC\BepInEx\plugins\</PluginDirectory>
+        <PluginDirectory>C:\Users\User\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\FLC\BepInEx\plugins\glifl-FLC</PluginDirectory>
     </PropertyGroup>
 
     <!-- Copy to Plugin Directory for Quicker Testing -->

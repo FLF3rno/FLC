@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\FLC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\FLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\FLC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\FLC.AssemblyInfo.cs
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\FLC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LC modding\FLC\FLC\bin\Debug\netstandard2.1\FLC.deps.json
+C:\Users\User\Desktop\LC modding\FLC\FLC\bin\Debug\netstandard2.1\FLC.dll
+C:\Users\User\Desktop\LC modding\FLC\FLC\obj\Debug\netstandard2.1\FLC.dll

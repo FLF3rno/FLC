@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\User\\Desktop\\LC modding\\FLC\\FLC\\FLC.csproj": {
-      "version": "0.1.0",
+      "version": "0.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\User\\Desktop\\LC modding\\FLC\\FLC\\FLC.csproj",
-        "projectName": "FL.FLC",
+        "projectName": "FLC",
         "projectPath": "C:\\Users\\User\\Desktop\\LC modding\\FLC\\FLC\\FLC.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Desktop\\LC modding\\FLC\\FLC\\obj\\",
