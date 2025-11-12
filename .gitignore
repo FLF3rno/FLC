@@ -1,6 +1,6 @@
 FLC/FLC.csproj.user
-/.vs/FLC
 /.FLC/bin
 /.FLC/obj/Debug
 *.dll
 *.cache
+/.vs
