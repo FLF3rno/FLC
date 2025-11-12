@@ -1,5 +1,6 @@
 FLC/FLC.csproj.user
-/.vs/FLC/DesignTimeBuild
-/.vs/FLC/v17
+/.vs/FLC
 /.FLC/bin
+/.FLC/obj/Debug
 *.dll
+*.cache
