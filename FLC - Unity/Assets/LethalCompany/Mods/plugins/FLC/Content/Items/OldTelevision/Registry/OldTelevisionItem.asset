@@ -19,30 +19,30 @@ MonoBehaviour:
   twoHandedAnimation: 0
   disableHandsOnWall: 0
   canBeGrabbedBeforeGameStart: 0
-  weight: 24
-  itemIsTrigger: 1
-  holdButtonUse: 1
+  weight: 1.24
+  itemIsTrigger: 0
+  holdButtonUse: 0
   itemSpawnsOnGround: 1
-  isConductiveMetal: 0
+  isConductiveMetal: 1
   isScrap: 1
   creditsWorth: 0
   lockedInDemo: 0
   highestSalePercentage: 80
   maxValue: 65
   minValue: 95
-  spawnPrefab: {fileID: 1582488714960099, guid: cf68234350bb38341ba33770e96c61cf,
+  spawnPrefab: {fileID: 1582488714960099, guid: e9e27a319c4a9d24bb16c2f7230b4634,
     type: 3}
   requiresBattery: 0
   batteryUsage: 15
   automaticallySetUsingPower: 1
   itemIcon: {fileID: 21300000, guid: ce18845643c8e4942a731ffc5cf465dc, type: 2}
-  grabAnim: 
+  grabAnim: HoldLung
   useAnim: 
   pocketAnim: 
   throwAnim: 
   grabAnimationTime: 0
-  grabSFX: {fileID: 8300000, guid: 59f4abeb74b10df409043931c2bd8429, type: 3}
-  dropSFX: {fileID: 8300000, guid: 17707b4c144150440922bbd768a1508f, type: 3}
+  grabSFX: {fileID: 8300000, guid: 999ab02dfdead404daeee87e8026b7b2, type: 3}
+  dropSFX: {fileID: 8300000, guid: 602caed47c8ad6a48a8d7b1ae6afd8ad, type: 3}
   pocketSFX: {fileID: 0}
   throwSFX: {fileID: 0}
   syncGrabFunction: 1

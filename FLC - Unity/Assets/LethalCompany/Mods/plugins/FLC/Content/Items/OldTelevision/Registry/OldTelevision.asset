@@ -17,7 +17,7 @@ MonoBehaviour:
   <Key>k__BackingField:
     _namespace: <None>
     _key: old_television
-  <Item>k__BackingField: {fileID: 11400000, guid: 4f3a3e745974e2c42b2ee0f218b5f1d3,
+  <Item>k__BackingField: {fileID: 11400000, guid: 678394369cb31f4478946bfd0eba3d3e,
     type: 2}
   <ShopItemPreset>k__BackingField:
     <OrderRequestNode>k__BackingField: {fileID: 0}

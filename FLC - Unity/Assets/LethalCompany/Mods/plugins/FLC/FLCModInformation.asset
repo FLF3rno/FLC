@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -303672662, guid: 41d6645f64e86c743812eb594070972f, type: 3}
-  m_Name: ModInformation
+  m_Name: FLCModInformation
   m_EditorClassIdentifier: 
   <AuthorName>k__BackingField: Gli FL
   <ModName>k__BackingField: FLC
