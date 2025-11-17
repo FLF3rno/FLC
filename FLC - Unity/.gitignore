@@ -46,6 +46,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.meta
+*.txt
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -79,4 +81,8 @@ crashlytics-build.properties
 *.dll*
 /AssetRipper/*
 /AssetRipperOutput/*
-/Assets/LethalCompany
+/Assets/LethalCompany/Game
+/Assets/LethalCompany/Plugins
+/Assets/LethalCompany/Tools
+/Assets/LethalCompany/Mods/plugins/FLC/Dependencies
+/Assets/LethalCompany/Mods/plugins/FLC/Content/Moons
