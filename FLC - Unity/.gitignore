@@ -1,9 +1,3 @@
-FLC/FLC.csproj.user
-/.FLC/bin
-/.FLC/obj/Debug
-*.dll
-*.cache
-/.vs
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -85,3 +79,4 @@ crashlytics-build.properties
 *.dll*
 /AssetRipper/*
 /AssetRipperOutput/*
+/Assets/LethalCompany

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -303672662, guid: 41d6645f64e86c743812eb594070972f, type: 3}
+  m_Name: ModInformation
+  m_EditorClassIdentifier: 
+  <AuthorName>k__BackingField: Gli FL
+  <ModName>k__BackingField: FLC
+  <Version>k__BackingField: 0.0.1
+  <READMEFile>k__BackingField: {fileID: 4900000, guid: 7dcb690dfb5b7f14db5c643d63169322,
+    type: 3}
+  <ChangelogFile>k__BackingField: {fileID: 0}
+  <ModDescription>k__BackingField: Adds balanced items, ship upgrades and special
+    rooms.
+  <ExtraDependencies>k__BackingField: []
+  <WebsiteUrl>k__BackingField: https://github.com/FLF3rno/FLC
+  <ModIcon>k__BackingField: {fileID: 21300000, guid: 5f657b53745420b4b88da732d2bfebd4,
+    type: 2}
