@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 2808989220
+CRC: 2400061721
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: flcmod.duskmod
       Dependencies: {}
     Info_1:
-      Name: flcmod/oldtelevision
+      Name: oldtelevision
       Dependencies: {}

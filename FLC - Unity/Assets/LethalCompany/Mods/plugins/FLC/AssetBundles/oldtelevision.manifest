@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2127031567
+CRC: 1813539566
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 330b96d6a35aade403b8cdae730f7a2e
+    Hash: 0c4f5a69e8aaf45b1926c92da45fe483
   TypeTreeHash:
     serializedVersion: 2
     Hash: d17cf372bbe19dc71ddfe455278f66e0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 330b96d6a35aade403b8cdae730f7a2e
+    Hash: 0c4f5a69e8aaf45b1926c92da45fe483
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -66,7 +66,7 @@ Assets:
 - Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Sounds/OldTelevisionDrop.ogg
 - Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Registry/OldTelevisionItem.asset
 - Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Materials/OldTelevisionMaterial.mat
-- Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Models/OldTVMesh.asset
+- Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Model/OldTVMesh.asset
 - Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Sounds/OldTelevisionPickup.ogg
 - Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Registry/OldTelevision.asset
 - Assets/LethalCompany/Mods/plugins/FLC/Content/Items/OldTelevision/Textures/mylittlechess.jpg
